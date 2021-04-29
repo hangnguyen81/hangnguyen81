@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-<!--
-**hangnguyen81/hangnguyen81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+Currently I am in the stage of changing my career. From former IT college teacher to Data Analyst in industry section!
+- 🌱 I’m currently learning and practicing extract, transform and load data with BI tools and Python
+- 👯 I’m looking for jobs related to data process
+- 📫 How to reach me: this account and in [linkedIn](https://www.linkedin.com/in/hang-nguyen-a619b1105/)
+- 😄 I am open to constructive feedback!
+<--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
