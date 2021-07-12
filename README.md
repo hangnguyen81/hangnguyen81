@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 I am in the stage of changing my career.
-- 🌱 I’m currently learning and practicing extract, transform and load data with BI tools and Python
-- 👯 I’m looking for jobs related to data process
+- 🌱 I’m currently learning and practicing extract, transform and load data with BI tools and Python. Also open another path to web developer by doing front-end web design, learning full stack web development!
+- 👯 I’m looking for jobs related to data process and web development
 - 📫 How to reach me: this account and in [linkedIn](https://www.linkedin.com/in/hang-nguyen-a619b1105/)
 - 😄 I am open to constructive feedback!
 
