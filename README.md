@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I was former IT teacher in college. However, now I am in the stage of changing my career to become a professional developer.
+I was former IT teacher in college. However, after nearly 6 years of staying out-of-IT-field, now I am in the stage of changing my career to come back and become a professional developer. Technique is changing everyday, therefore I am updating and upgrading my knowledge and skills currently.
 - 🌱 Interested fields: Web Development, Data Analysis and Management.
 - 😄 Technical use: HTML, CSS, Javascript, React, Python, SQL, PHP (out of practice).
 - 👯 I’m looking for jobs related to data process and web development
