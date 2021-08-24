@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am in the stage of changing my career.
+I was former IT teacher in college. However, now I am in the stage of changing my career to become a professional developer.
 - 🌱 Interested fields: Web Development, Data Analysis and Management.
 - 😄 Technical use: HTML, CSS, Javascript, React, Python, SQL.
 - 👯 I’m looking for jobs related to data process and web development
