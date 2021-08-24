@@ -2,7 +2,7 @@
 
 I was former IT teacher in college. However, now I am in the stage of changing my career to become a professional developer.
 - 🌱 Interested fields: Web Development, Data Analysis and Management.
-- 😄 Technical use: HTML, CSS, Javascript, React, Python, SQL.
+- 😄 Technical use: HTML, CSS, Javascript, React, Python, SQL, PHP (out of practice).
 - 👯 I’m looking for jobs related to data process and web development
 - 📫 How to reach me: this account and in [linkedIn](https://www.linkedin.com/in/hang-nguyen-a619b1105/)
 - 😄 I am open to constructive feedback!
