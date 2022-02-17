@@ -2,7 +2,7 @@
 
 I was former IT teacher in college. After 6 years of staying out-of-IT-field, I decide to come back and I want to become a professional developer. Technique is changing everyday, therefore I am updating and upgrading my knowledge and skills currently.
 - 🌱 Interested fields: Web Development, Data Analysis and Management.
-- 👯 I’m looking for jobs related to data process and web development
+
 
 **IT Skills:**
 * Front-end development: HTML, CSS (SASS), Javascript, React, Redux, Bootstrap5
@@ -24,4 +24,5 @@ I was former IT teacher in college. After 6 years of staying out-of-IT-field, I 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 👯 I’m looking for jobs related to data process and web development
 -->
