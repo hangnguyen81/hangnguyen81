@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am on the way to shapen my career as a professional software developer! 🌱 My interested fields: Web Development, Data Analysis and Management.
-Currently, I am jumping into C# (.NET) and MS Azure! Challenge accepted!
+Currently, I am jumping into Angular, C# (.NET) and MS Azure! Challenge accepted!
 
 **IT Skills:**
 * Front-end development: HTML, CSS (SASS), Javascript, React, Redux, Bootstrap5
