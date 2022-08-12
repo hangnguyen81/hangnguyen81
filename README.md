@@ -3,11 +3,11 @@ I am on the way to shapen my career as a professional software developer! 🌱 M
 Currently, I am jumping into C# (.NET) and MS Azure! Challenge accepted!
 
 **IT Skills:**
-* Front-end development: HTML, CSS (SASS), Javascript, React, Redux, Bootstrap5
-* Back-end development: Node.js, Express, PHP
+* Front-end development: HTML, CSS (SASS), Javascript, React, Redux, Bootstrap5, Angular
+* Back-end development: Node.js, Express, PHP, .NET Core
 * Databases: Relational database, SQL, IBM DB2 on Cloud, MongoDB, Python (for wrangling and analyzing data)
 * Testing: Jest, Cypress, REST Client
-* DevOps: GitBash/GitHub, Netlify, Heroku
+* DevOps: GitBash/GitHub, Netlify, Heroku, Docker
 * Others: Jupyter Notebook, Photoshop
 
 **Other info:**
