@@ -1,14 +1,14 @@
 ### Hi there 👋
-I am on the way to shapen my career as a professional software developer! 🌱 My interested fields: Web Development, Data Analysis and Management.
-Currently, I am jumping into C# (.NET) and MS Azure! Challenge accepted!
+I am on the way to shapen my career as a professional software developer! 🌱 
 
 **IT Skills:**
-* Front-end development: HTML, CSS (SASS), Javascript, Typescript, Angular framework, React framework, Bootstrap5, Angular Materials
-* Back-end development: Node.js, Express, PHP, C#, .NET Core
-* Databases: Relational database, SQL, IBM DB2 on Cloud, MongoDB, Python (for wrangling and analyzing data), Azure
-* Testing: Jest, Cypress, REST Client
-* DevOps: GitBash/GitHub, Netlify, Heroku, Docker, Ms Azure, AWS
-* Others: Jupyter Notebook, Photoshop
+* Mobile: React Native, Expo, TypeScript
+* Frontend: JavaScript, HTML, CSS (SASS), React, Angular
+* Backend: C#, .NET, Node.js
+* Databases: PostgreSQL, SQLite, Drizzle ORM
+* APIs: REST
+* Version control & CI/CD: Git, GitHub, GitLab, GitHub Actions
+* AI coding tools: Claude Code, Claude AI, GitHub Copilot
 
 **Other info:**
 - 📫 How to reach me: this⚡ account and in [linkedIn](https://www.linkedin.com/in/hang-nguyen-a619b1105/)
