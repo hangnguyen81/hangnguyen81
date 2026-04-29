@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am on the way to shapen my career as a professional software developer! 🌱 
+I am on the way to shapen my career as a professional software developer! 🌱 Currently most codes I wrote are in my company's GitHub/GitLab as it is my daily work
 
 **IT Skills:**
 * Mobile: React Native, Expo, TypeScript
