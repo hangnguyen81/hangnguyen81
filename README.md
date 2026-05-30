@@ -3,7 +3,7 @@ I'm a software developer with 4+ years of experience in React, React Native, Ang
 
 **IT Skills:**
 * Mobile: React Native, Expo, TypeScript
-* Frontend: JavaScript, HTML, CSS (SASS), React, Angular
+* Frontend: React, Angular, JavaScript, CSS (SASS), Tailwind 
 * Backend: C#, .NET, Node.js
 * Databases: PostgreSQL, SQLite, Drizzle ORM
 * APIs: REST
