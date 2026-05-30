@@ -1,5 +1,5 @@
 ### Hi there 👋
-Adaptable software developer with 4+ years of professional experience across frontend and full-stack development. Proven ability to pick up new technologies quickly and apply them in production environments. 🌱 Currently most codes I wrote are in my company's GitHub/GitLab as it is my daily work
+I'm a software developer with 4+ years of experience in React, React Native, Angular, and TypeScript, currently based in the Helsinki area. 🌱 Currently most codes I wrote are in my company's GitHub/GitLab as it is my daily work
 
 **IT Skills:**
 * Mobile: React Native, Expo, TypeScript
